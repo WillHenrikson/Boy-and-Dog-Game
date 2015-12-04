@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dog_bark1.wav</file>
+        <file>out_of_gum.wav</file>
+        <file>sorry_dave.wav</file>
+    </qresource>
+</RCC>
