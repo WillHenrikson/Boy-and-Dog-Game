@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Map.jpg</file>
+        <file>boy.png</file>
+        <file>boy.jpg</file>
+        <file>boy_small.png</file>
+        <file>boy_small_cleaned.png</file>
+        <file>flashlight shadow.png</file>
+        <file>shadow darkened smaller.png</file>
+        <file>even darker still small.png</file>
+        <file>darkest.png</file>
+        <file>dog.jpg</file>
+        <file>Large and Dark.png</file>
+    </qresource>
+</RCC>
